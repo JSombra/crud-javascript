@@ -1,6 +1,6 @@
 public class TestaFuncionarios {
     public static void main(String[] args) {
-        Funcionario f1 = new Funcionario();
+        Funcionario f1 = new EditorDeVideo();
         Gerente g1 = new Gerente();
 
         f1.setSalario(1000);
